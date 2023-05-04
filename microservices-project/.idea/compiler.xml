@@ -10,8 +10,8 @@
         <module name="discovery-new" />
         <module name="inventory-service" />
         <module name="microservice-inventory" />
-        <module name="microservice-product" />
         <module name="api-gateway" />
+        <module name="microservice-product" />
         <module name="product-service" />
         <module name="order-service" />
         <module name="microservice-order" />

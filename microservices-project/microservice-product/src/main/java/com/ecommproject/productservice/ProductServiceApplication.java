@@ -15,6 +15,5 @@ public class ProductServiceApplication {
 		System.out.println("Datasource URL: " + System.getProperty("spring.datasource.url"));
 		System.out.println("version: " + SpringVersion.getVersion());
 		System.out.println("version: " + SpringBootVersion.getVersion());
-
 	}
 }
